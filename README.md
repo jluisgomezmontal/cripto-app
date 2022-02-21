@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# App where you can quote the most popular cryptocurrencies using Cryptocompare API
+# You can see the APP in https://criptoappbyjlgm.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
